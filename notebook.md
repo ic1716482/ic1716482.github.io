@@ -1,18 +1,70 @@
+
 ## Table of Contents
 
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
-  - [Headings](#headings)
-
-  - [Text Formatting](#text-formatting)
- 
 
 
-## Markdown Style Guide for Coding Notebooks
+## Blocks
+ Hat blocks-special event-handling block with a curved or flat top that starts a stack of code
+ Stack / Command Block -connect vertically attaching above or below other stack blocks to execute instructions sequentially from top to bottom
+  C-Block -it acts as a container or wrapper to loop actions or check conditions
+  Reporter / Oval Block-reports specific data values like numbers or text (such as sensor measurements or variable data)
+  Boolean / Hexagonal Block-reports a condition as either true or false
+  Repeat Block-loops a set of commands a specific number of times before moving to the next blocka1
+  Wait Until-pauses the execution of your project stack
+  If Then Block-the robot runs the code inside the block
+  Forever Block- to make robots run continuous behaviors, like checking sensors or driving, without stopping until the program ends
+## Concepts
+Sequence	Why the order of commands matters
+Parameters	How changing an input changes what a command does
+Loops / Iteration	How and why programs repeat instructions
+Sensors	How a robot gets information about its environment
+Booleans & Conditions	How TRUE/FALSE information controls a program
+Sense → Think → Act	How a robot senses information, makes a decision, and responds
+Comparisons	How < and > compare values and produce TRUE/FALSE
+Coordinates	How X and Y values describe the robot's location
+Conditionals	How programs make decisions using conditions
+Patterns	How recognizing repeated behavior can help create better algorithms
+## Vocabulary
+VR Robot + Playground	VR Robot, Playground
+Programming Language + Project	Programming Language, Project
+Behavior + Command	Behavior, Command
+Drivetrain	Drivetrain
+Loop + Iteration	Loop, Iteration
+Sensor + Bumper Sensor	Sensor, Bumper Sensor
+Boolean + Condition + TRUE/FALSE	Boolean, Condition, TRUE, FALSE
+Distance Sensor + Threshold	Distance Sensor, Threshold
+Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate
+Location Sensor	Location Sensor
+Comment	Comment
+Eye Sensor	Eye Sensor
+Conditional Statement	Conditional Statement
 
-Follow this guide to keep your coding notebook **clear, consistent, and professional**.  
 
-This ensures your notes are easy for you (and others) to read later.
+
+
+
+
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
 
 ---
 
