@@ -10,14 +10,23 @@
 
 ## Blocks
  Hat blocks-special event-handling block with a curved or flat top that starts a stack of code
+ 
  Stack / Command Block -connect vertically attaching above or below other stack blocks to execute instructions sequentially from top to bottom
+ 
   C-Block -it acts as a container or wrapper to loop actions or check conditions
+  
   Reporter / Oval Block-reports specific data values like numbers or text (such as sensor measurements or variable data)
+  
   Boolean / Hexagonal Block-reports a condition as either true or false
+  
   Repeat Block-loops a set of commands a specific number of times before moving to the next blocka1
+  
   Wait Until-pauses the execution of your project stack
+  
   If Then Block-the robot runs the code inside the block
+  
   Forever Block- to make robots run continuous behaviors, like checking sensors or driving, without stopping until the program ends
+
 ## Concepts
 Sequence	Why the order of commands matters
 Parameters	How changing an input changes what a command does
