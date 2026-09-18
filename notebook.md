@@ -37,13 +37,13 @@ Loops / Iteration-let you run a block of code multiple times
 
 Sensors - specific modular sensors give machines detailed awareness of their surroundings
 
-Booleans & Conditions	How TRUE/FALSE information controls a program
+Booleans & Conditions-allow a computer to make decisions, choose between different paths, and execute code dynamically based on real-world inputs or changing data
 
-Sense → Think → Act	How a robot senses information, makes a decision, and responds
+Sense → Think → Act - The robot gathers data via sensors (Sense), processes that information to make a decision (Think), and executes a physical response using its motors or actuators (Act)
 
-Comparisons	How < and > compare values and produce TRUE/FALSE
+Comparisons	- < (less than) and > (greater than) check the relationship between two values
 
-Coordinates	How X and Y values describe the robot's location
+Coordinates	How X and Y values describe the robot's location-use a standard 2D Cartesian coordinate system
 
 
 Conditionals	How programs make decisions using conditions
