@@ -69,13 +69,13 @@ Distance Sensor + Threshold	Distance Sensor, Threshold-A distance sensor measure
 
 Coordinate Plane + X/Y Coordinates	Coordinate Plane, X-axis, Y-axis, X-coordinate, Y-coordinate-A coordinate plane is a flat grid used to map and find locations using pairs of numbers
 
-Location Sensor	Location Sensor-tracks real-time X and Y coordinates and heading
+Location Sensor	Location Sensor-tracks real-time X and Y coordinates and heading 
 
-Comment	Comment
+Comment	Comment-notes written in code or block projects that the V5 robot brain ignores, used to explain code, collaborate, or troubleshoot
 
-Eye Sensor	Eye Sensor
+Eye Sensor	- These devices act as the "eyes" of the robot to detect colors, objects, and codes.
 
-Conditional Statement	Conditional Statement
+Conditional Statement	Conditional Statement-A conditional statement (an "if-then" statement) tells a program to run specific blocks of code only when a defined condition evaluates to true. If the condition is false, that code block is skipped
 
 
 
