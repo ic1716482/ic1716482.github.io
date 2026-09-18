@@ -29,13 +29,13 @@
 
 ## Concepts
 
-Sequence	Why the order of commands matters
+Sequence-because computers execute instructions step-by-step in the exact sequence they are written
 
-Parameters	How changing an input changes what a command does
+Parameters-passing specific values or flags that modify behavior, targets, or settings
 
-Loops / Iteration	How and why programs repeat instructions
+Loops / Iteration-let you run a block of code multiple times
 
-Sensors	How a robot gets information about its environment
+Sensors - specific modular sensors give machines detailed awareness of their surroundings
 
 Booleans & Conditions	How TRUE/FALSE information controls a program
 
