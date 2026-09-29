@@ -4,7 +4,7 @@
 
 [VEX VR](vex-vr.md) : (All of the challenges i have completed in Vex V5)
 
-- Project 2: Description
+ 
 
 ## About Me
 
