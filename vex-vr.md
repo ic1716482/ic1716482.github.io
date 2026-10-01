@@ -17,7 +17,7 @@ My goal for this challenge is to use the pen future tp  Program the VR Robot to 
 
 ### What I Learned
 
-what I learnws form this challenge is how to problem-solving and use the pen future on Vex V5
+what I learned form this challenge is how to problem-solving and use the pen future on Vex V5
 
 
 ----------------------------------------------------------------------
@@ -36,4 +36,33 @@ Program the VR Robot to drive forward 1 grid square, stop, and return back 1 gri
 
 I learned from this challange is how to build an algorithm to complet this callenge
 
+---------------------------------------------------------------------------
+## Challenge: [Storm the Castle]
+
+### Goal
+The goal for this challenge is to knock all over the castle
+
+
+### My Solution
+<img width="1510" height="765" alt="Screenshot 2026-09-03 111559" src="https://github.com/user-attachments/assets/31a539a3-941b-4562-82ff-20aafb0b7a6d" />
+
+### What I Learned
+
+I learned how knock down multipbe buildings using the Vex vr code
+----------------------------------------------------------------------
+
+## Challenge: [Draw a House]
+
+### Goal
+
+drawing a house using the pen in Vex v5
+
+### My Solution
+
+<img width="973" height="805" alt="Screenshot 2026-09-01 104117" src="https://github.com/user-attachments/assets/e8f47c92-8cf1-45e4-871a-9d9678c99f60" />
+
+
+### What I Learned
+
+I learned how to use the pen an many functions to create the house
 ---------------------------------------------------------------------------
