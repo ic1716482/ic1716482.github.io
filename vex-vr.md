@@ -17,7 +17,7 @@ My goal for this challenge is to use the pen future tp  Program the VR Robot to 
 
 ### What I Learned
 
-what I learned form this challenge is how to problem-solving and use the pen future on Vex V5
+what I learned form this challenge is how to problem-solving and use the pen future on Vex Vr
 
 
 ----------------------------------------------------------------------
@@ -55,7 +55,7 @@ I learned how knock down multipbe buildings using the Vex vr code
 
 ### Goal
 
-drawing a house using the pen in Vex v5
+drawing a house using the pen in Vex vr
 
 ### My Solution
 
@@ -65,4 +65,17 @@ drawing a house using the pen in Vex v5
 ### What I Learned
 
 I learned how to use the pen an many functions to create the house
+---------------------------------------------------------------------------
+## Challenge: [Wall Maze with Bumpers]
+
+### Goal
+
+Navigate a maze using bumper senesers on Vex VR
+### My Solution
+
+<img width="1390" height="807" alt="Screenshot 2026-09-03 102613" src="https://github.com/user-attachments/assets/7a11e1b2-9314-4219-9889-6fb781081a38" />
+
+### What I Learned
+
+I used the using the bumpers
 ---------------------------------------------------------------------------
