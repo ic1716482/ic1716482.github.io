@@ -7,7 +7,14 @@
 - [Day 3](#day-3)
 
 
+## Day 1
 
+— Date: Oct/29/26
+
+### 1. What was your goal or plan for today?
+- What were you trying to accomplish?
+- What steps did you plan to take?
+- What materials, parts, or tools did you need?
 
 
 
