@@ -11,11 +11,12 @@
 
 — Date: Oct/29/26
 
-### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+### 1. 
+Plan:
+Try to design a race track 
 
+
+We design it to turn at a 45% angel to the right and loop back to the start
 
 
 
